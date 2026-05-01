@@ -66,12 +66,12 @@ const education = [
 
 const experience = [
   {
-    role: 'Salesforce Virtual Intern',
-    company: 'Remote',
+    role: 'Salesforce Developer with Agentblazer Champion Program',
+    company: 'SMARTBRIDGE, AICTE, & Salesforce',
     period: 'May – July 2025',
     bullets: [
-      'Gained hands-on experience in Salesforce platform development including Apex programming and Lightning Web Components (LWC).',
-      'Implemented Salesforce object relationships and explored real-world CRM development scenarios.',
+      'Gained hands-on experience in Apex, Lightning Web Components (LWC), and Object Relationships.',
+      'Explored real-world CRM development scenarios and automation features.',
       'Completed Trailhead modules and Superbadges focused on practical Salesforce development skills.',
     ],
   },
@@ -101,9 +101,8 @@ const projects = [
 
 const achievements = [
   { text: 'Smart Interviews - Problem Solving & Data Structures Curriculum Certificate', link: 'https://smartinterviews.in/certificate/0052c449' },
-  { text: 'Salesforce Developer Training with Agentblazer.' },
-  { text: 'Completed hands-on Salesforce development training including Apex programming and Lightning Web Components.' },
-  { text: 'Earned Trailhead badges and Superbadges demonstrating real-world Salesforce development expertise.' },
+  { text: 'Salesforce Developer with Agentblazer Champion Program (LinkedIn Post)', link: 'https://www.linkedin.com/feed/update/urn:li:activity:7358540146884952065/' },
+  { text: 'Salesforce Certified Platform Developer I - Credential ID: 7605863', link: 'https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=V0R3hhZIAX23zNLnP5PZgjXUA2EZhmQLDM5X8TZqeoTJM//9+oPxBoGKhFwOA3Jj' },
 ];
 
 const navItems = ['About', 'Profiles', 'Skills', 'Experience', 'Projects', 'Education', 'Contact'];
